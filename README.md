@@ -11,4 +11,4 @@ I've included a sample of redacted data and a sample of how the data should look
 
 Thanks!
 
-Note: this tutorial is written with the expectation of general comfort with Python. A similar repo with each step included is to be found shortly!
+Updated to include annotated, step by step process.
